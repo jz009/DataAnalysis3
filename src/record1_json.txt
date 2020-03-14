@@ -1,0 +1,1 @@
+{"Credits":"44","Major":"SPA","Address":{"zip":"17003","city":"Annville","street":"2968 W St","state":"PA"},"GPA":"3.27","StudentID":"1000001"}
